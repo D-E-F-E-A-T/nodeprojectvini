@@ -1,3 +1,1 @@
-# Desafio NodeJS
-# nodeprojectvini
-# nodeprojectvini
+Desafio nodeJS realizado(a) para fins de aprendizado
